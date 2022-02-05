@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+An ordinary guy.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I always want to do too much, but I am always too lazy.
 
-What else do you need?
+I want to change myself and do meaningful work, so use this blog to record my learning and life.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
